@@ -1,0 +1,8 @@
+Certainly! git reset is a powerful command in Git used to undo changes, move the HEAD pointer, and alter commit history. Here are different variations of git reset with examples:
+
+1. Soft Reset:
+Move HEAD to a previous commit while keeping the changes staged in the index.
+# Reset to a specific commit, keeping changes in the staging area
+git reset --soft <commit_hash>
+git reset --hard <commit_hash>
+git reset --mixed <commit_hash>
