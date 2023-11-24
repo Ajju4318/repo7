@@ -6,3 +6,5 @@ Move HEAD to a previous commit while keeping the changes staged in the index.
 git reset --soft <commit_hash>
 git reset --hard <commit_hash>
 git reset --mixed <commit_hash>
+lsssdmsd
+askaskds
