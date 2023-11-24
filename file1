@@ -1,0 +1,7 @@
+stash pratice
+git stash save -m "msg"
+git stash list
+git stash apply
+git stash pop
+git stash drop
+git stash clear
